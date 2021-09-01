@@ -1,0 +1,19 @@
+598  cd GIT_AGOSTO_2021/
+  599  PWD
+  600  pwd
+  601  ls -lha
+  602  cd agosto_2021/
+  603  ls -lha
+  604  touch README.md
+  605  ls -lha
+  606  echo "Proximamente instrucciones del repositorio" > README.md
+  607  nano README.md
+  608  git status
+  609  ls -lha
+  610  touch history.txt
+  611  nano history.txt
+  612  history
+
+  Ahora vamos hacer una actualización del repositorio local y luego actualizar el remoto.
+  
+
